@@ -1,6 +1,6 @@
 #include <stdio.h>
 //Linear Search implementation:
-int main(void) {
+int Linear-Search(void) {
   //Hardcodes a dataSet of 8 elements.
   int dataSet[8] = {6,3,2,1,19,58,27,36};
   int i;//Initialised for the loop.
